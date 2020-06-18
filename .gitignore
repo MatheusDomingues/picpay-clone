@@ -1,11 +1,12 @@
-node_modules/**/*
-.expo/*
-.expo-shared/*
+node_modules/
+.expo/
+.expo-shared/
 npm-debug.*
 *.jks
 *.p8
 *.p12
 *.key
+*.log
 *.mobileprovision
 *.orig.*
 web-build/
